@@ -1,5 +1,6 @@
 # CodeCasa-L1-task1-PersonalPortfolio
+========================================
 Technologies used-
 HTML, CSS, Javascript and Bootstrap.
-========================================
-personal portfolio website for Code Casa internship.
+Description-
+Personal portfolio website for Code Casa internship.
